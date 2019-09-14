@@ -984,10 +984,10 @@ var tests = [
 
         id: 0,
         
-        name:           "Mapa do eu",
-        description:    "Descubra como você enxerga a dualidade filosófica da vida, do egoísmo ao altruísmo de ceticismo ao absolutismo.",
-        preamble:       "Você será solicitado a responder várias perguntas. Essas serão na forma de uma declaração ou de um cenário. Para cada uma dessas perguntas, você deve indicar se concorda ou discorda (de maneira geral). Tente responder o mais honestamente possível. .
-        results:        "Seus resultados são exibidos abaixo",
+        name:           "Philosophy",
+        description:    "Find out how you stand along many philosophical dichotomies from egoism and altruism to skepticism and absolutism.",
+        preamble:       "You will be asked a number of questions. These will be in the form of either a statement or a scenario. For each of these questions you should state whether you agree or disagree (broadly speaking). Please try to answer as honestly as possible.",
+        results:        "Your results are displayed below:",
         
         btnClass:       "btn-a51344",
         
